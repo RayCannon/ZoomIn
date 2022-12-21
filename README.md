@@ -1,6 +1,8 @@
 # ZoomIn
 Animated zoom into a Mandelbrot set using Dyalog APL Isolates 
 
+(See https://youtu.be/7aUOAklV2AM for a 5 minute video)
+
 This APL workspace was initially written under Dyalog APL/W-64 Version 18.0.40684 and expects to run under a Microsoft Windows OS.
 
 For speed, it uses Isolates if multiple processors are available on the machine. 
